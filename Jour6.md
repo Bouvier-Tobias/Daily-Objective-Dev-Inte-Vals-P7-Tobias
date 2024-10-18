@@ -29,10 +29,10 @@ Benjamin
   - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
 ### Github
 
-- [ ] Pimper son profile Github
+- [x] Pimper son profile Github
 - [x] Découvrir l'interface de Github :
-  - [ ] Pull Requests
-  - [ ] Branches
+  - [x] Pull Requests
+  - [x] Branches
   - [ ] Issues
   - [ ] Settings projet
   - [ ] Settings profile
