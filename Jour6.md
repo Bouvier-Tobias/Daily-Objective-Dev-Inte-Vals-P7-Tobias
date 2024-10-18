@@ -34,5 +34,5 @@ Benjamin
   - [x] Pull Requests
   - [x] Branches
   - [x] Issues
-  - [ ] Settings projet
-  - [ ] Settings profile
+  - [x] Settings projet
+  - [x] Settings profile
